@@ -6,6 +6,6 @@
     composer update</pre>
 </li>
 <li>Rename .env.example to .env and provide the paypal client and secret there.</li>
-<li>Run <pre>php artisan key:generate</pre> </li>
+<li>Run <pre>php artisan key:generate</pre></li>
 
 </ul>
